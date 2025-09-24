@@ -1,0 +1,40 @@
+{
+  "name": "sap-mw",
+  "version": "1.0.0",
+  "description": "SAP Middleware for Web Apps",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-https-vhost": "^2.0.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "vhost": "^3.0.2",
+    "vhttps": "^0.1.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2",
+    "vhttps": "^0.1.1"
+  },
+  "scripts": {
+    "start:local": "",
+    "start:prod": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treeware-MX/sap-mw.git"
+  },
+  "author": "Samuel Salazar Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Treeware-MX/sap-mw/issues"
+  },
+  "homepage": "https://github.com/Treeware-MX/sap-mw#readme"
+}
